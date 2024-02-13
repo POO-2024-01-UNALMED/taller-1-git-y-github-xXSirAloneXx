@@ -1,1 +1,1 @@
-La carpeta vacia no se dejaba ver porque la carpeta estaba vacia.
+La carpeta no se dejaba ver porque la carpeta estaba vacia. No se pudo hacer commit.
