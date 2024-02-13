@@ -1,4 +1,4 @@
 Juan José Salzar Gómez.
 22 Años.
 En el curso espero mejoras mis habilidades como programador y aprender muchas cosas nuevas.
-Me salió el error porque los dos archivos tenían el mismo nombre.
+Me salió el error porque los dos archivos tenían el mismo nombre y genera conflicto.
